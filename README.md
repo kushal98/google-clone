@@ -1,6 +1,6 @@
 ## About
 
-This Application was built from the live stream video by the youtube channel [Clever Programmer][https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ]
+This Application was built from the live stream video by the youtube channel [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
